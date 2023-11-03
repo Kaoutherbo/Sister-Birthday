@@ -24,7 +24,7 @@ Feel free to customize the script by modifying the emojis, messages, or other vi
 ### Example:
 Birthday Wishes Animation
 
-
+<img src="./birthday.mp4" />
 
 ### Credits:
 This code was created by `Kaouther Boutheldja` for celebrating `her sister's birthday`in a unique and creative way.
