@@ -24,7 +24,7 @@ Feel free to customize the script by modifying the emojis, messages, or other vi
 ### Example:
 Birthday Wishes Animation
 
-
+[![video preview]()]
 
 ### Credits:
 This code was created by `Kaouther Boutheldja` for celebrating `her sister's birthday`in a unique and creative way.
